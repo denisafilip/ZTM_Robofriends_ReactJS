@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/ZTM_Robofriends_Reactjs/static/css/main.e7d31a36.css",
-    "main.js": "/ZTM_Robofriends_Reactjs/static/js/main.a4c4951b.js",
-    "static/js/787.03b6904c.chunk.js": "/ZTM_Robofriends_Reactjs/static/js/787.03b6904c.chunk.js",
-    "static/media/SEGA.woff": "/ZTM_Robofriends_Reactjs/static/media/SEGA.47b4bfa94ef243af4a5b.woff",
-    "index.html": "/ZTM_Robofriends_Reactjs/index.html",
-    "main.e7d31a36.css.map": "/ZTM_Robofriends_Reactjs/static/css/main.e7d31a36.css.map",
-    "main.a4c4951b.js.map": "/ZTM_Robofriends_Reactjs/static/js/main.a4c4951b.js.map",
-    "787.03b6904c.chunk.js.map": "/ZTM_Robofriends_Reactjs/static/js/787.03b6904c.chunk.js.map"
+    "main.css": "/ZTM_Robofriends_ReactJS/static/css/main.30aff484.css",
+    "main.js": "/ZTM_Robofriends_ReactJS/static/js/main.da6d330d.js",
+    "static/js/787.03b6904c.chunk.js": "/ZTM_Robofriends_ReactJS/static/js/787.03b6904c.chunk.js",
+    "static/media/SEGA.woff": "/ZTM_Robofriends_ReactJS/static/media/SEGA.47b4bfa94ef243af4a5b.woff",
+    "index.html": "/ZTM_Robofriends_ReactJS/index.html",
+    "main.30aff484.css.map": "/ZTM_Robofriends_ReactJS/static/css/main.30aff484.css.map",
+    "main.da6d330d.js.map": "/ZTM_Robofriends_ReactJS/static/js/main.da6d330d.js.map",
+    "787.03b6904c.chunk.js.map": "/ZTM_Robofriends_ReactJS/static/js/787.03b6904c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e7d31a36.css",
-    "static/js/main.a4c4951b.js"
+    "static/css/main.30aff484.css",
+    "static/js/main.da6d330d.js"
   ]
 }
